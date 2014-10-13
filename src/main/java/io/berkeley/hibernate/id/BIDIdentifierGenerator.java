@@ -1,4 +1,4 @@
-package io.berkeley.hibernate;
+package io.berkeley.hibernate.id;
 
 
 import com.google.common.io.BaseEncoding;
